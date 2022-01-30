@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **ozanarmagan/ozanarmagan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozanarmagan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![My Stats](https://github-readme-stats.vercel.app/api?username=ozanarmagan&theme=dark&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozanarmagan&layout=compact&theme=dark&exclude_repo=spotify-stats-app,stok-program)
 
