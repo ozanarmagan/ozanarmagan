@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 -->
 ![My Stats](https://github-readme-stats.vercel.app/api?username=ozanarmagan&theme=dark&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozanarmagan&layout=compact&theme=dark&exclude_repo=spotify-stats-app,stok-program,f1-2020-telemetry)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozanarmagan&layout=compact&theme=dark&exclude_repo=spotify-stats-app,stok-program)
 
